@@ -1,0 +1,2 @@
+# USCcoursescrapper
+Automate stuff
