@@ -1,0 +1,6 @@
+CSCI 561: Foundations of Artificial Intelligence (4.0 units)
+CSCI 566: Deep Learning and Its Applications (4.0 units)
+
+DSCI 552: Machine Learning for Data Science (4.0 units)
+
+EE 565: Information Theory and Its Application to (Big) Data Science (4.0 units)
