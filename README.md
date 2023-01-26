@@ -1,4 +1,4 @@
-# USC course scrapper
+# USC Mail Automation
 ## Step-by-step guide on automating emailing to professors through USC/university email
 > This is specifically designed to work with USC websites
 
